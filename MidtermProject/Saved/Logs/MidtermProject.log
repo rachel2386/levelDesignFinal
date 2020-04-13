@@ -1617,3 +1617,96 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.13-17.20.09:219][971]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.13-17.20.09:219][971]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/OceanWorld.OceanWorld
 [2020.04.13-17.20.09:219][971]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/OceanWorld_BuiltData.OceanWorld_BuiltData
+[2020.04.13-17.52.25:092][ 20]AssetReimport: New page: Outstanding source content changes 上午9:52:25
+[2020.04.13-17.52.25:113][ 20]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/Walk.fbm/FbxTemp_0001.png)
+[2020.04.13-17.52.25:680][ 21]LogEditorFactories: Performing atomic reimport of [G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/bearTexture.png]
+[2020.04.13-17.52.25:684][ 21]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/bearTexture.png)
+[2020.04.13-17.52.25:932][ 21]LogEditorFactories: -- imported successfully
+[2020.04.13-17.52.26:406][ 22]LogSkeletalMesh: Building Skeletal Mesh Walk...
+[2020.04.13-17.52.26:528][ 22]LogSkeletalMesh: Section 0: 3082 vertices, 33 active bones
+[2020.04.13-17.52.26:528][ 22]LogSkeletalMesh: Section 1: 384 vertices, 12 active bones
+[2020.04.13-17.52.26:530][ 22]LogSkeletalMesh: Section 0: Material=0, 4852 triangles
+[2020.04.13-17.52.26:530][ 22]LogSkeletalMesh: Section 1: Material=1, 168 triangles
+[2020.04.13-17.52.26:543][ 22]LogSkeletalMesh: Built Skeletal Mesh [0.14s] /Game/forestSStuff/熊【带骨骼动画】/Walk.Walk
+[2020.04.13-17.52.26:582][ 22]LogEditorFactories: Performing atomic reimport of [G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/Walk.fbx]
+[2020.04.13-17.52.26:612][ 22]LogFbx: Loading FBX Scene from G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/Walk.fbx
+[2020.04.13-17.52.26:707][ 22]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-17.52.26:731][ 22]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - BrownBear(1)
+[2020.04.13-17.52.26:993][ 22]LogSkeletalMesh: Section 0: 3082 vertices, 33 active bones
+[2020.04.13-17.52.26:994][ 22]LogSkeletalMesh: Section 1: 384 vertices, 12 active bones
+[2020.04.13-17.52.26:994][ 22]LogSkeletalMesh: Section 0: Material=0, 4852 triangles
+[2020.04.13-17.52.26:994][ 22]LogSkeletalMesh: Section 1: Material=1, 168 triangles
+[2020.04.13-17.52.27:007][ 22]LogEditorFactories: -- imported successfully
+[2020.04.13-17.52.27:020][ 22]LogSkeletalMesh: Building Skeletal Mesh Walk...
+[2020.04.13-17.52.27:175][ 22]LogSkeletalMesh: Section 0: 3082 vertices, 33 active bones
+[2020.04.13-17.52.27:175][ 22]LogSkeletalMesh: Section 1: 384 vertices, 12 active bones
+[2020.04.13-17.52.27:176][ 22]LogSkeletalMesh: Section 0: Material=0, 4852 triangles
+[2020.04.13-17.52.27:176][ 22]LogSkeletalMesh: Section 1: Material=1, 168 triangles
+[2020.04.13-17.52.27:188][ 22]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/forestSStuff/熊【带骨骼动画】/Walk.Walk
+[2020.04.13-17.52.27:228][ 23]LogEditorFactories: Performing atomic reimport of [G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/FbxTemp_0001.png]
+[2020.04.13-17.52.27:233][ 23]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/FbxTemp_0001.png)
+[2020.04.13-17.52.27:558][ 23]LogEditorFactories: -- imported successfully
+[2020.04.13-17.52.28:062][ 24]LogEditorFactories: Performing atomic reimport of [G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/feltPanel.jpg]
+[2020.04.13-17.52.28:062][ 24]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/feltPanel.jpg)
+[2020.04.13-17.52.28:551][ 24]LogEditorFactories: -- imported successfully
+[2020.04.13-17.52.28:594][ 25]LogEditorFactories: Performing atomic reimport of [G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/Walk.fbm/FbxTemp_0002.png]
+[2020.04.13-17.52.28:595][ 25]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/Walk.fbm/FbxTemp_0002.png)
+[2020.04.13-17.52.28:655][ 25]LogEditorFactories: -- imported successfully
+[2020.04.13-17.52.28:770][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/forestSStuff/Walk_fbm/FbxTemp_0001" FILE="G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/Walk_fbm/FbxTemp_0001.uasset" SILENT=true
+[2020.04.13-17.52.28:918][ 26]LogSavePackage: Moving 'G:/UEProject/LevelDesignFinal/MidtermProject/Saved/FbxTemp_0001ED289D334771184611B9A7981760D33E.tmp' to 'G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/Walk_fbm/FbxTemp_0001.uasset'
+[2020.04.13-17.52.28:930][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/forestSStuff/熊【带骨骼动画】/bearTexture" FILE="G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/bearTexture.uasset" SILENT=true
+[2020.04.13-17.52.29:167][ 26]LogSavePackage: Moving 'G:/UEProject/LevelDesignFinal/MidtermProject/Saved/bearTexture61A4AC804B84B8CB7D15899DE5148DBF.tmp' to 'G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/bearTexture.uasset'
+[2020.04.13-17.52.29:167][ 26]LogFileManager: Warning: DeleteFile was unable to delete 'G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/bearTexture.uasset', retrying in .5s...
+[2020.04.13-17.52.29:668][ 26]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2020.04.13-17.52.29:668][ 26]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 40
+[2020.04.13-17.52.29:668][ 26]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 34
+[2020.04.13-17.52.29:668][ 26]LogFileManager: Warning: DeleteFile recovered during retry!
+[2020.04.13-17.52.29:723][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/forestSStuff/熊【带骨骼动画】/Walk" FILE="G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/Walk.uasset" SILENT=true
+[2020.04.13-17.52.29:769][ 26]LogSavePackage: Moving 'G:/UEProject/LevelDesignFinal/MidtermProject/Saved/WalkE775798E4B8D8374324DBD9653475364.tmp' to 'G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/Walk.uasset'
+[2020.04.13-17.52.29:779][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/forestSStuff/熊【带骨骼动画】/FbxTemp_0001" FILE="G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/FbxTemp_0001.uasset" SILENT=true
+[2020.04.13-17.52.29:952][ 26]LogSavePackage: Moving 'G:/UEProject/LevelDesignFinal/MidtermProject/Saved/FbxTemp_0001DEF273BD4B8B1AC96A3B5090FA50EF76.tmp' to 'G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/FbxTemp_0001.uasset'
+[2020.04.13-17.52.29:961][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/forestSStuff/feltPanel" FILE="G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/feltPanel.uasset" SILENT=true
+[2020.04.13-17.52.30:049][ 26]LogSavePackage: Moving 'G:/UEProject/LevelDesignFinal/MidtermProject/Saved/feltPanel76690BA347812335E17803B16A4515DA.tmp' to 'G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/feltPanel.uasset'
+[2020.04.13-17.52.30:059][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/forestSStuff/熊【带骨骼动画】/FbxTemp_0002" FILE="G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/FbxTemp_0002.uasset" SILENT=true
+[2020.04.13-17.52.30:160][ 26]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2020.04.13-17.52.30:172][ 26]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2020.04.13-17.52.30:188][ 26]LogSavePackage: Moving 'G:/UEProject/LevelDesignFinal/MidtermProject/Saved/FbxTemp_0002F170325845267BA1498BDFB31C6F6A23.tmp' to 'G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/FbxTemp_0002.uasset'
+[2020.04.13-17.52.30:264][ 27]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.13-17.52.30:264][ 27]LogContentValidation: Display: Validating Texture2D /Game/forestSStuff/Walk_fbm/FbxTemp_0001.FbxTemp_0001
+[2020.04.13-17.52.30:265][ 27]LogContentValidation: Display: Validating Texture2D /Game/forestSStuff/熊【带骨骼动画】/bearTexture.bearTexture
+[2020.04.13-17.52.30:265][ 27]LogContentValidation: Display: Validating SkeletalMesh /Game/forestSStuff/熊【带骨骼动画】/Walk.Walk
+[2020.04.13-17.52.30:265][ 27]LogContentValidation: Display: Validating Texture2D /Game/forestSStuff/熊【带骨骼动画】/FbxTemp_0001.FbxTemp_0001
+[2020.04.13-17.52.30:265][ 27]LogContentValidation: Display: Validating Texture2D /Game/forestSStuff/feltPanel.feltPanel
+[2020.04.13-17.52.30:265][ 27]LogContentValidation: Display: Validating Texture2D /Game/forestSStuff/熊【带骨骼动画】/FbxTemp_0002.FbxTemp_0002
+[2020.04.13-17.52.30:634][ 57]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2020.04.13-17.52.31:010][ 94]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2020.04.13-17.52.31:050][ 98]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2020.04.13-17.52.31:082][101]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2020.04.13-17.52.31:322][124]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2020.04.13-17.52.31:514][143]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.04.13-17.52.31:546][146]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.04.13-17.52.31:556][147]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.04.13-17.52.31:712][162]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.04.13-17.52.31:712][162]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.04.13-17.52.31:951][184]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.04.13-17.52.31:960][185]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.04.13-17.52.31:969][186]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.04.13-17.52.33:565][216]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/Walk.fbm/FbxTemp_0002.png)
+[2020.04.13-17.52.33:654][216]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/Walk.fbm/FbxTemp_0001.png)
+[2020.04.13-17.52.33:953][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/forestSStuff/熊【带骨骼动画】/Walk_fbm/FbxTemp_0002" FILE="G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/Walk_fbm/FbxTemp_0002.uasset" SILENT=true
+[2020.04.13-17.52.34:038][217]LogSavePackage: Moving 'G:/UEProject/LevelDesignFinal/MidtermProject/Saved/FbxTemp_00022C87DF8643FE4060E8D33790F6D6F9F0.tmp' to 'G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/Walk_fbm/FbxTemp_0002.uasset'
+[2020.04.13-17.52.34:044][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/forestSStuff/熊【带骨骼动画】/Walk_fbm/FbxTemp_0001" FILE="G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/Walk_fbm/FbxTemp_0001.uasset" SILENT=true
+[2020.04.13-17.52.34:176][217]LogSavePackage: Moving 'G:/UEProject/LevelDesignFinal/MidtermProject/Saved/FbxTemp_0001FD7866BF46AC4BE4065CA88421BCF7BF.tmp' to 'G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/Walk_fbm/FbxTemp_0001.uasset'
+[2020.04.13-17.52.34:263][218]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.13-17.52.34:263][218]LogContentValidation: Display: Validating Texture2D /Game/forestSStuff/熊【带骨骼动画】/Walk_fbm/FbxTemp_0002.FbxTemp_0002
+[2020.04.13-17.52.34:263][218]LogContentValidation: Display: Validating Texture2D /Game/forestSStuff/熊【带骨骼动画】/Walk_fbm/FbxTemp_0001.FbxTemp_0001
+[2020.04.13-17.54.57:708][648]AssetReimport: Importing new asset /Game/forestSStuff/Walk_fbm/FbxTemp_0001.
+[2020.04.13-17.54.57:708][648]AssetReimport: Reimported asset bearTexture from G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/bearTexture.png.
+[2020.04.13-17.54.57:708][648]AssetReimport: Reimported asset Walk from G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/Walk.fbx.
+[2020.04.13-17.54.57:708][648]AssetReimport: Reimported asset FbxTemp_0001 from G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/熊【带骨骼动画】/FbxTemp_0001.png.
+[2020.04.13-17.54.57:708][648]AssetReimport: Reimported asset feltPanel from G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/feltPanel.jpg.
+[2020.04.13-17.54.57:708][648]AssetReimport: Reimported asset FbxTemp_0002 from G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/Walk.fbm/FbxTemp_0002.png.
+[2020.04.13-17.54.57:708][648]AssetReimport: Importing new asset /Game/forestSStuff/熊【带骨骼动画】/Walk_fbm/FbxTemp_0002.
+[2020.04.13-17.54.57:708][648]AssetReimport: Importing new asset /Game/forestSStuff/熊【带骨骼动画】/Walk_fbm/FbxTemp_0001.
+[2020.04.13-18.11.55:638][273]AssetReimport: New page: Outstanding source content changes 上午10:11:55
+[2020.04.13-18.11.55:643][273]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/UEProject/LevelDesignFinal/MidtermProject/Content/forestSStuff/Walk.fbm/FbxTemp_0001.png)
