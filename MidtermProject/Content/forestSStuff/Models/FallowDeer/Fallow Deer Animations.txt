@@ -1,0 +1,7 @@
+Walk               1-36
+IdleA            37-236
+GrazeA          237-325
+GrazeB          326-414
+Agressive       415-494 
+Attack          495-545
+Run             546-557
