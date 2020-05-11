@@ -2213,3 +2213,1156 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.11-19.31.52:182][241]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
 [2020.05.11-19.31.52:198][242]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
 [2020.05.11-19.31.52:276][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.05.11-19.40.39:074][728]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_BMan0306_M4_00016_AnimSequence.MyScene1_ani_BMan0306_M4_00016_AnimSequence
+[2020.05.11-19.40.39:089][728]LogAnimationCompression: Recompressing (AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_BMan0306_M4_00016_AnimSequence.MyScene1_ani_BMan0306_M4_00016_AnimSequence) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.11-19.40.42:465][728]LogTexture: Display: Building textures: T_ArMan0004-M4-ArMan0004-M4-Body-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.40.42:465][728]LogTexture: Display: Building textures: T_ArMan0004-M4-v00002Cloths_Stuff_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.40.42:465][728]LogTexture: Display: Building textures: T_ArMan0004-M4-ArMan0004-M4-Body-N_N (BC5, 2048X2048)
+[2020.05.11-19.40.42:465][728]LogTexture: Display: Building textures: T_BMan0306-M4-BMan0306-M4-Head-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.40.42:465][728]LogTexture: Display: Building textures: T_BMan0306-M4-BMan0306-M4-Body-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.40.42:465][728]LogTexture: Display: Building textures: T_BMan0306-M4-BMan0306-M4-Body-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.40.42:465][728]LogTexture: Display: Building textures: T_BMan0306-M4-BMan0306-M4-Body-N_N (BC5, 2048X2048)
+[2020.05.11-19.40.42:465][728]LogTexture: Display: Building textures: T_BMan0306-M4-BMan0306-M4-Head-N_N (BC5, 2048X2048)
+[2020.05.11-19.40.42:465][728]LogMaterial: Display: Missing cached shader map for material M_Anima_Fabric, compiling. 
+[2020.05.11-19.40.46:057][728]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.05.11-19.40.46:058][728]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.05.11-19.40.46:058][728]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.05.11-19.40.46:058][728]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.05.11-19.40.46:058][728]LogTexture: Display: Building textures: T_ArMan0004-M4-ArMan0004-M4-Head-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.40.46:058][728]LogTexture: Display: Building textures: T_BMan0306-M4-BMan0306-M4-Head-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.40.46:058][728]LogTexture: Display: Building textures: T_ArMan0004-M4-ArMan0004-M4-Head-N_N (BC5, 2048X2048)
+[2020.05.11-19.40.46:058][728]LogTexture: Display: Building textures: T_ArMan0004-M4-ArMan0004-M4-Head-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.40.46:058][728]LogTexture: Display: Building textures: T_BMan0007-M4-BMan0007-M4-Hair-N_N (BGRA8, 150X150)
+[2020.05.11-19.40.46:058][728]LogTexture: Display: Building textures: T_BMan0007-M4-BMan0007-M4-Hair-D_BC (AutoDXT, 256X256)
+[2020.05.11-19.40.46:058][728]LogTexture: Display: Building textures: T_ArMan0004-M4-ArMan0004-M4-Hair-S_S (AutoDXT, 512X512)
+[2020.05.11-19.40.46:058][728]LogTexture: Display: Building textures: T_ArMan0004-M4-ArMan0004-M4-Hair-N_N (BGRA8, 350X350)
+[2020.05.11-19.40.46:058][728]LogTexture: Display: Building textures: T_ArMan0004-M4-ArMan0004-M4-Hair-D_BC (BGRA8, 350X350)
+[2020.05.11-19.40.46:058][728]LogTexture: Display: Building textures: T_BMan0007-M4-BMan0007-M4-Hair-S_S (AutoDXT, 256X256)
+[2020.05.11-19.40.46:058][728]LogSkeletalMesh: Building Skeletal Mesh SK_MyScene1_ani_BMan0306_M4_00016...
+[2020.05.11-19.40.46:074][728]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Anima_UE4/Meshes/SK_MyScene1_ani_BMan0306_M4_00016.SK_MyScene1_ani_BMan0306_M4_00016
+[2020.05.11-19.40.48:752][728]LogMaterial: Display: Missing cached shader map for material M_Anima_EyesAndMouth, compiling. 
+[2020.05.11-19.40.48:810][728]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2020.05.11-19.40.48:810][728]LogMaterial: Display: Missing cached shader map for material M_Anima_Hair, compiling. 
+[2020.05.11-19.40.48:937][728]LogMaterial: Display: Missing cached shader map for material M_Anima_Skin, compiling. 
+[2020.05.11-19.40.49:385][728]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 166
+[2020.05.11-19.40.53:025][868]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 156
+[2020.05.11-19.40.53:740][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 146
+[2020.05.11-19.40.54:708][949]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 136
+[2020.05.11-19.40.54:791][954]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 126
+[2020.05.11-19.40.57:610][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-19.40.57:687][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-19.40.57:687][ 94]PIE: New page: PIE session: forestRoom (May 11, 2020, 11:40:57 AM)
+[2020.05.11-19.40.57:687][ 94]LogPlayLevel: Creating play world package: /Game/forestSStuff/UEDPIE_0_forestRoom
+[2020.05.11-19.40.57:788][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101442s)
+[2020.05.11-19.40.57:790][ 94]LogAIModule: Creating AISystem for world forestRoom
+[2020.05.11-19.40.57:790][ 94]LogPlayLevel: PIE: World Init took: (0.001988s)
+[2020.05.11-19.40.57:790][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/forestSStuff/forestRoom.forestRoom to /Game/forestSStuff/UEDPIE_0_forestRoom.forestRoom (0.103636s)
+[2020.05.11-19.40.57:823][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.05.11-19.40.57:833][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.11-19.40.57:833][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.11-19.40.57:833][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.11-19.40.57:833][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.11-19.40.57:833][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.11-19.40.57:833][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.11-19.40.57:833][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.11-19.40.57:833][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.11-19.40.57:834][ 94]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.11-19.40.57:834][ 94]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.11-19.40.57:865][ 94]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.11-19.40.57:865][ 94]LogAudioMixer: Display: Name: PHL 245C5 (3- NVIDIA High Definition Audio)
+[2020.05.11-19.40.57:865][ 94]LogAudioMixer: Display: Is Default: Yes
+[2020.05.11-19.40.57:865][ 94]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.11-19.40.57:866][ 94]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.11-19.40.57:866][ 94]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.11-19.40.57:866][ 94]LogAudioMixer: Display: Channel Order:
+[2020.05.11-19.40.57:866][ 94]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.11-19.40.57:866][ 94]LogAudioMixer: Display: 1: FrontRight
+[2020.05.11-19.40.57:886][ 94]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 116
+[2020.05.11-19.40.57:886][ 94]LogAudioMixer: Display: Using Audio Device PHL 245C5 (3- NVIDIA High Definition Audio)
+[2020.05.11-19.40.57:887][ 94]LogInit: FAudioDevice initialized.
+[2020.05.11-19.40.57:902][ 94]LogLoad: Game class is 'myGameModeMidterm_C'
+[2020.05.11-19.40.57:914][ 94]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 106
+[2020.05.11-19.40.57:914][ 94]LogWorld: Bringing World /Game/forestSStuff/UEDPIE_0_forestRoom.forestRoom up for play (max tick rate 60) at 2020.05.11-15.40.57
+[2020.05.11-19.40.57:915][ 94]LogWorld: Bringing up level for play took: 0.011895
+[2020.05.11-19.40.57:915][ 94]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.05.11-19.40.57:918][ 94]PIE: Play in editor start time for /Game/forestSStuff/UEDPIE_0_forestRoom -0.119
+[2020.05.11-19.40.57:985][ 95]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2020.05.11-19.40.57:985][ 95]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2020.05.11-19.41.00:639][249]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 76
+[2020.05.11-19.41.01:387][294]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2020.05.11-19.41.02:726][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2020.05.11-19.41.03:743][435]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2020.05.11-19.41.03:892][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2020.05.11-19.41.04:110][457]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.05.11-19.41.04:182][461]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.41.04:182][461]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.41.04:184][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-19.41.04:184][461]LogWorld: BeginTearingDown for /Game/forestSStuff/UEDPIE_0_forestRoom
+[2020.05.11-19.41.04:184][461]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.41.04:184][461]LogWorld: UWorld::CleanupWorld for forestRoom, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.41.04:188][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.41.04:200][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-19.41.04:206][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.41.04:235][461]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.41.04:239][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-19.41.04:244][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.05.11-19.41.04:383][463]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.05.11-19.41.06:053][545]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MyScene1_ani_BMan0306_M4_00016_AnimSequence)
+[2020.05.11-19.41.07:500][613]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.05.11-19.41.07:616][619]Cmd: DELETE
+[2020.05.11-19.41.07:616][619]Cmd: ACTOR DELETE
+[2020.05.11-19.41.07:651][619]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.05.11-19.41.07:680][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.05.11-19.41.07:681][619]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2020.05.11-19.41.07:711][620]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.05.11-19.41.08:139][641]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.05.11-19.41.09:662][719]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_BMan0308_M4_00028_AnimSequence.MyScene1_ani_BMan0308_M4_00028_AnimSequence
+[2020.05.11-19.41.09:662][719]LogAnimationCompression: Recompressing (AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_BMan0308_M4_00028_AnimSequence.MyScene1_ani_BMan0308_M4_00028_AnimSequence) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.11-19.41.15:697][719]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.05.11-19.41.15:697][719]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.05.11-19.41.15:697][719]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.11-19.41.15:697][719]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.05.11-19.41.15:697][719]LogTexture: Display: Building textures: T_BMan0308-M4-BMan0308-M4-Hair-S_S (AutoDXT, 256X256)
+[2020.05.11-19.41.15:697][719]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.05.11-19.41.15:697][719]LogTexture: Display: Building textures: T_BMan0308-M4-BMan0308-M4-Head-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.41.15:697][719]LogTexture: Display: Building textures: T_BMan0308-M4-BMan0308-M4-Body-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.41.15:697][719]LogTexture: Display: Building textures: T_BMan0308-M4-BMan0308-M4-Head-N_N (BC5, 2048X2048)
+[2020.05.11-19.41.15:697][719]LogTexture: Display: Building textures: T_BMan0308-M4-BMan0308-M4-Body-N_N (BC5, 2048X2048)
+[2020.05.11-19.41.15:697][719]LogTexture: Display: Building textures: T_BMan0308-M4-v00003Cloths_Stuff_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.41.15:697][719]LogTexture: Display: Building textures: T_BMan0308-M4-BMan0308-M4-Head-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.41.15:697][719]LogTexture: Display: Building textures: T_BMan0308-M4-BMan0308-M4-Body-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.41.15:698][719]LogSkeletalMesh: Building Skeletal Mesh SK_MyScene1_ani_BMan0308_M4_00028...
+[2020.05.11-19.41.15:725][719]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Anima_UE4/Meshes/SK_MyScene1_ani_BMan0308_M4_00028.SK_MyScene1_ani_BMan0308_M4_00028
+[2020.05.11-19.41.49:858][717]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.41.49:881][717]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.41.49:909][718]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.05.11-19.41.49:909][718]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.05.11-19.41.49:909][718]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.05.11-19.41.49:909][718]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.05.11-19.41.51:022][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.11-19.41.51:096][779]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.05.11-19.41.51:115][780]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.05.11-19.41.51:131][781]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.05.11-19.41.51:501][801]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.05.11-19.41.51:612][807]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.05.11-19.41.51:927][824]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.05.11-19.41.52:345][848]MaterialEditorStats: Base pass shader: 132 instructions
+[2020.05.11-19.41.52:345][848]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2020.05.11-19.41.52:345][848]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2020.05.11-19.41.52:345][848]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.11-19.41.52:345][848]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.11-19.41.52:345][848]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.05.11-19.41.52:345][848]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.11-19.41.56:843][116]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.41.56:862][116]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.41.56:896][117]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.05.11-19.41.56:896][117]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.05.11-19.41.56:896][117]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.05.11-19.41.56:896][117]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.05.11-19.41.57:872][168]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.05.11-19.41.57:892][169]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.05.11-19.41.57:946][172]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.05.11-19.41.57:982][174]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.05.11-19.41.58:377][195]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.05.11-19.41.58:503][202]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.05.11-19.41.58:819][219]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.05.11-19.41.59:351][248]MaterialEditorStats: Base pass shader: 132 instructions
+[2020.05.11-19.41.59:351][248]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2020.05.11-19.41.59:351][248]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2020.05.11-19.41.59:351][248]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.11-19.41.59:351][248]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.11-19.41.59:351][248]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.05.11-19.41.59:351][248]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.11-19.42.03:769][512]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.42.03:796][512]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.42.03:824][513]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.05.11-19.42.03:824][513]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.05.11-19.42.03:824][513]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.05.11-19.42.03:824][513]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.05.11-19.42.04:730][559]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.11-19.42.04:802][563]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.05.11-19.42.04:837][565]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.05.11-19.42.04:852][566]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.05.11-19.42.05:187][584]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.05.11-19.42.05:329][592]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.05.11-19.42.05:625][608]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.05.11-19.42.06:054][633]MaterialEditorStats: Base pass shader: 132 instructions
+[2020.05.11-19.42.06:055][633]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2020.05.11-19.42.06:055][633]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2020.05.11-19.42.06:055][633]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.11-19.42.06:055][633]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.11-19.42.06:055][633]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.05.11-19.42.06:055][633]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.11-19.42.06:604][663]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.42.06:670][664]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.05.11-19.42.06:670][664]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.05.11-19.42.06:670][664]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.05.11-19.42.06:670][664]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.05.11-19.42.07:517][707]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.11-19.42.07:535][708]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.05.11-19.42.07:604][712]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.05.11-19.42.07:621][713]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.05.11-19.42.08:007][734]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.05.11-19.42.08:100][739]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.05.11-19.42.08:365][754]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.05.11-19.42.08:818][780]MaterialEditorStats: Base pass shader: 132 instructions
+[2020.05.11-19.42.08:818][780]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2020.05.11-19.42.08:818][780]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2020.05.11-19.42.08:818][780]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.11-19.42.08:818][780]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.11-19.42.08:818][780]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.05.11-19.42.08:818][780]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.11-19.42.10:759][892]LogMaterialEditor: Saving and Compiling material worldAlignTexture
+[2020.05.11-19.42.11:268][892]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.42.11:334][892]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.05.11-19.42.11:334][892]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.05.11-19.42.11:334][892]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.05.11-19.42.11:334][892]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.05.11-19.42.11:363][892]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.42.11:459][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.05.11-19.42.11:481][892]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.11-19.42.13:114][892]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.05.11-19.42.13:114][892]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.05.11-19.42.13:114][892]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2020.05.11-19.42.13:114][892]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.05.11-19.42.13:114][892]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.05.11-19.42.13:114][892]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.05.11-19.42.13:114][892]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.05.11-19.42.13:114][892]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.05.11-19.42.13:114][892]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.05.11-19.42.13:114][892]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.05.11-19.42.13:114][892]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.05.11-19.42.13:114][892]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.05.11-19.42.13:114][892]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.05.11-19.42.13:135][892]TextureStreamingBuild: Display: Compiling optional shaders took 1.671 seconds.
+[2020.05.11-19.42.13:205][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.05.11-19.42.16:052][892]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.05.11-19.42.16:052][892]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.11-19.42.16:052][892]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.05.11-19.42.16:052][892]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.05.11-19.42.16:106][892]LogSavePackage: Moving '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Saved/worldAlignTextureCC2AE5714DF0C7FCD5FDB88DA0BB819F.tmp' to '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Content/forestSStuff/worldAlignTexture.uasset'
+[2020.05.11-19.42.16:158][892]AssetCheck: New page: Asset Save: worldAlignTexture
+[2020.05.11-19.42.16:158][892]LogContentValidation: Display: Validating Material /Game/forestSStuff/worldAlignTexture.worldAlignTexture
+[2020.05.11-19.42.16:159][892]MaterialEditorStats: Base pass shader: 132 instructions
+[2020.05.11-19.42.16:159][892]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2020.05.11-19.42.16:159][892]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2020.05.11-19.42.16:159][892]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.11-19.42.16:159][892]MaterialEditorStats: Texture samplers: 5/16
+[2020.05.11-19.42.16:159][892]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.05.11-19.42.16:159][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.11-19.42.40:719][325]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.42.40:736][325]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.42.40:765][326]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.05.11-19.42.40:765][326]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.05.11-19.42.40:765][326]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.05.11-19.42.40:765][326]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.05.11-19.42.41:842][380]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.11-19.42.41:860][381]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.05.11-19.42.41:879][382]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.05.11-19.42.41:932][385]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.05.11-19.42.42:295][401]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.05.11-19.42.42:376][405]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.05.11-19.42.42:683][421]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.05.11-19.42.43:128][445]MaterialEditorStats: Base pass shader: 132 instructions
+[2020.05.11-19.42.43:128][445]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2020.05.11-19.42.43:128][445]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2020.05.11-19.42.43:128][445]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.11-19.42.43:128][445]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.11-19.42.43:128][445]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.05.11-19.42.43:128][445]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.11-19.42.44:248][511]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.42.44:277][512]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.05.11-19.42.44:277][512]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.05.11-19.42.44:277][512]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.05.11-19.42.44:277][512]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.05.11-19.42.44:328][515]LogMaterialEditor: Saving and Compiling material worldAlignTexture
+[2020.05.11-19.42.45:057][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.05.11-19.42.45:057][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.05.11-19.42.45:057][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.05.11-19.42.45:057][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.05.11-19.42.45:081][515]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.42.45:202][515]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.42.45:305][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.05.11-19.42.45:324][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.05.11-19.42.47:107][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.05.11-19.42.47:117][515]TextureStreamingBuild: Display: Compiling optional shaders took 1.810 seconds.
+[2020.05.11-19.42.47:148][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.05.11-19.42.47:164][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.05.11-19.42.49:932][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.05.11-19.42.49:932][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.05.11-19.42.49:932][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.05.11-19.42.49:932][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.05.11-19.42.49:982][515]LogSavePackage: Moving '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Saved/worldAlignTexture1A57286D478221E8B97F84A014F88E40.tmp' to '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Content/forestSStuff/worldAlignTexture.uasset'
+[2020.05.11-19.42.50:023][515]AssetCheck: New page: Asset Save: worldAlignTexture
+[2020.05.11-19.42.50:023][515]LogContentValidation: Display: Validating Material /Game/forestSStuff/worldAlignTexture.worldAlignTexture
+[2020.05.11-19.42.50:028][515]MaterialEditorStats: Base pass shader: 132 instructions
+[2020.05.11-19.42.50:029][515]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2020.05.11-19.42.50:029][515]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2020.05.11-19.42.50:029][515]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.11-19.42.50:029][515]MaterialEditorStats: Texture samplers: 5/16
+[2020.05.11-19.42.50:029][515]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.05.11-19.42.50:029][515]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.11-19.43.00:093][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.11-19.43.00:323][ 96]LogSavePackage: Moving '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Saved/forestRoomC338C3A04BB654FB2282E085626E2D32.tmp' to '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Content/forestSStuff/forestRoom.umap'
+[2020.05.11-19.43.00:474][ 96]LogSavePackage: Moving '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Saved/forestRoom_BuiltDataF5B045D24D2E8AA0E555EEA34E8D4EFE.tmp' to '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Content/forestSStuff/forestRoom_BuiltData.uasset'
+[2020.05.11-19.43.00:489][ 96]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.11-19.43.00:489][ 96]LogContentValidation: Display: Validating World /Game/forestSStuff/forestRoom.forestRoom
+[2020.05.11-19.43.00:489][ 96]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/forestSStuff/forestRoom_BuiltData.forestRoom_BuiltData
+[2020.05.11-19.43.06:248][416]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MyScene1_ani_BMan0308_M4_00028_AnimSequence)
+[2020.05.11-19.43.14:922][917]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-19.43.14:945][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-19.43.14:945][917]PIE: New page: PIE session: forestRoom (May 11, 2020, 11:43:14 AM)
+[2020.05.11-19.43.14:945][917]LogPlayLevel: Creating play world package: /Game/forestSStuff/UEDPIE_0_forestRoom
+[2020.05.11-19.43.15:008][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062972s)
+[2020.05.11-19.43.15:010][917]LogAIModule: Creating AISystem for world forestRoom
+[2020.05.11-19.43.15:010][917]LogPlayLevel: PIE: World Init took: (0.002192s)
+[2020.05.11-19.43.15:010][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/forestSStuff/forestRoom.forestRoom to /Game/forestSStuff/UEDPIE_0_forestRoom.forestRoom (0.065424s)
+[2020.05.11-19.43.15:040][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.05.11-19.43.15:042][917]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.11-19.43.15:042][917]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.11-19.43.15:042][917]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.11-19.43.15:042][917]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.11-19.43.15:042][917]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.11-19.43.15:042][917]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.11-19.43.15:042][917]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.11-19.43.15:042][917]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.11-19.43.15:043][917]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.11-19.43.15:043][917]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.11-19.43.15:068][917]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.11-19.43.15:068][917]LogAudioMixer: Display: Name: PHL 245C5 (3- NVIDIA High Definition Audio)
+[2020.05.11-19.43.15:068][917]LogAudioMixer: Display: Is Default: Yes
+[2020.05.11-19.43.15:068][917]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.11-19.43.15:068][917]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.11-19.43.15:068][917]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.11-19.43.15:068][917]LogAudioMixer: Display: Channel Order:
+[2020.05.11-19.43.15:068][917]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.11-19.43.15:068][917]LogAudioMixer: Display: 1: FrontRight
+[2020.05.11-19.43.15:084][917]LogAudioMixer: Display: Using Audio Device PHL 245C5 (3- NVIDIA High Definition Audio)
+[2020.05.11-19.43.15:086][917]LogInit: FAudioDevice initialized.
+[2020.05.11-19.43.15:092][917]LogLoad: Game class is 'myGameModeMidterm_C'
+[2020.05.11-19.43.15:101][917]LogWorld: Bringing World /Game/forestSStuff/UEDPIE_0_forestRoom.forestRoom up for play (max tick rate 60) at 2020.05.11-15.43.15
+[2020.05.11-19.43.15:101][917]LogWorld: Bringing up level for play took: 0.007281
+[2020.05.11-19.43.15:101][917]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.05.11-19.43.15:104][917]PIE: Play in editor start time for /Game/forestSStuff/UEDPIE_0_forestRoom 1.068
+[2020.05.11-19.43.22:726][373]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.43.22:726][373]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.43.22:727][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-19.43.22:727][373]LogWorld: BeginTearingDown for /Game/forestSStuff/UEDPIE_0_forestRoom
+[2020.05.11-19.43.22:727][373]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.43.22:727][373]LogWorld: UWorld::CleanupWorld for forestRoom, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.43.22:729][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.43.22:742][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-19.43.22:746][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.43.22:771][373]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.43.22:774][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-19.43.22:778][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.05.11-19.43.22:860][375]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.05.11-19.44.29:984][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PicnicBasket)
+[2020.05.11-19.47.53:045][757]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MyScene1_ani_BMan0308_M4_00028_AnimSequence)
+[2020.05.11-19.47.58:087][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bench_FBX3)
+[2020.05.11-19.48.07:123][524]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MyScene1_ani_BMan0308_M4_00028_AnimSequence)
+[2020.05.11-19.48.19:252][173]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_BWom0301_M4_00015_AnimSequence.MyScene1_ani_BWom0301_M4_00015_AnimSequence
+[2020.05.11-19.48.19:252][173]LogAnimationCompression: Recompressing (AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_BWom0301_M4_00015_AnimSequence.MyScene1_ani_BWom0301_M4_00015_AnimSequence) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.11-19.48.24:205][173]LogTexture: Display: Building textures: T_BWom0301-M4-BWom0301-M4-Body-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.48.24:205][173]LogTexture: Display: Building textures: T_BWom0301-M4-BWom0301-M4-Head-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.48.24:205][173]LogTexture: Display: Building textures: T_BWom0301-M4-BWom0301-M4-Body-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.48.24:205][173]LogTexture: Display: Building textures: T_BWom0301-M4-BWom0301-M4-Body-N_N (BC5, 2048X2048)
+[2020.05.11-19.48.24:205][173]LogTexture: Display: Building textures: T_BWom0301-M4-v00001Cloths_Stuff_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.48.24:205][173]LogTexture: Display: Building textures: T_BWom0301-M4-BWom0301-M4-Head-N_N (BC5, 2048X2048)
+[2020.05.11-19.48.24:205][173]LogTexture: Display: Building textures: T_BWom0301-M4-BWom0301-M4-Head-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.48.24:205][173]LogSkeletalMesh: Building Skeletal Mesh SK_MyScene1_ani_BWom0301_M4_00002...
+[2020.05.11-19.48.24:239][173]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Anima_UE4/Meshes/SK_MyScene1_ani_BWom0301_M4_00002.SK_MyScene1_ani_BWom0301_M4_00002
+[2020.05.11-19.48.38:311][957]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MyScene1_ani_BMan0308_M4_00028_AnimSequence)
+[2020.05.11-19.48.44:932][327]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-19.48.44:956][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-19.48.44:956][327]PIE: New page: PIE session: forestRoom (May 11, 2020, 11:48:44 AM)
+[2020.05.11-19.48.44:956][327]LogPlayLevel: Creating play world package: /Game/forestSStuff/UEDPIE_0_forestRoom
+[2020.05.11-19.48.45:021][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064536s)
+[2020.05.11-19.48.45:022][327]LogAIModule: Creating AISystem for world forestRoom
+[2020.05.11-19.48.45:022][327]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2020.05.11-19.48.45:022][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/forestSStuff/forestRoom.forestRoom to /Game/forestSStuff/UEDPIE_0_forestRoom.forestRoom (0.066031s)
+[2020.05.11-19.48.45:052][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.05.11-19.48.45:062][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.11-19.48.45:062][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.11-19.48.45:062][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.11-19.48.45:062][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.11-19.48.45:062][327]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.11-19.48.45:062][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.11-19.48.45:062][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.11-19.48.45:062][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.11-19.48.45:062][327]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.11-19.48.45:062][327]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.11-19.48.45:089][327]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.11-19.48.45:089][327]LogAudioMixer: Display: Name: PHL 245C5 (3- NVIDIA High Definition Audio)
+[2020.05.11-19.48.45:089][327]LogAudioMixer: Display: Is Default: Yes
+[2020.05.11-19.48.45:089][327]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.11-19.48.45:089][327]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.11-19.48.45:089][327]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.11-19.48.45:089][327]LogAudioMixer: Display: Channel Order:
+[2020.05.11-19.48.45:089][327]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.11-19.48.45:089][327]LogAudioMixer: Display: 1: FrontRight
+[2020.05.11-19.48.45:105][327]LogAudioMixer: Display: Using Audio Device PHL 245C5 (3- NVIDIA High Definition Audio)
+[2020.05.11-19.48.45:107][327]LogInit: FAudioDevice initialized.
+[2020.05.11-19.48.45:115][327]LogLoad: Game class is 'myGameModeMidterm_C'
+[2020.05.11-19.48.45:123][327]LogWorld: Bringing World /Game/forestSStuff/UEDPIE_0_forestRoom.forestRoom up for play (max tick rate 60) at 2020.05.11-15.48.45
+[2020.05.11-19.48.45:124][327]LogWorld: Bringing up level for play took: 0.007282
+[2020.05.11-19.48.45:124][327]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.05.11-19.48.45:142][327]PIE: Play in editor start time for /Game/forestSStuff/UEDPIE_0_forestRoom 1.106
+[2020.05.11-19.49.42:544][643]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.49.42:558][643]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.11-19.49.42:578][643]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.11-19.49.42:579][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-19.49.42:579][643]LogWorld: BeginTearingDown for /Game/forestSStuff/UEDPIE_0_forestRoom
+[2020.05.11-19.49.42:579][643]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.49.42:579][643]LogWorld: UWorld::CleanupWorld for forestRoom, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.49.42:582][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.49.42:597][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-19.49.42:603][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.49.42:639][643]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.49.42:644][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-19.49.42:647][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.05.11-19.49.42:668][644]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.05.11-19.49.58:489][550]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_CMan0009_M4_00034_AnimSequence.MyScene1_ani_CMan0009_M4_00034_AnimSequence
+[2020.05.11-19.49.58:490][550]LogAnimationCompression: Recompressing (AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_CMan0009_M4_00034_AnimSequence.MyScene1_ani_CMan0009_M4_00034_AnimSequence) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.11-19.50.00:190][550]LogTexture: Display: Building textures: T_CMan0009-M4-CMan0009-M4-Hair-D_BC (BGRA8, 150X150)
+[2020.05.11-19.50.00:190][550]LogTexture: Display: Building textures: T_CMan0009-M4-CMan0009-M4-Head-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.50.00:190][550]LogTexture: Display: Building textures: T_CMan0009-M4-CMan0009-M4-Head-N_N (BC5, 2048X2048)
+[2020.05.11-19.50.00:190][550]LogTexture: Display: Building textures: T_CMan0009-M4-CMan0009-M4-Body-N_N (BC5, 2048X2048)
+[2020.05.11-19.50.00:190][550]LogTexture: Display: Building textures: T_CMan0009-M4-v00004CMan0009_M4_CS_Cloths_Stuff_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.50.00:190][550]LogTexture: Display: Building textures: T_CMan0009-M4-CMan0009-M4-Body-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.50.00:190][550]LogTexture: Display: Building textures: T_CMan0009-M4-CMan0009-M4-Body-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.50.00:190][550]LogTexture: Display: Building textures: T_CMan0009-M4-CMan0009-M4-Head-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.50.04:259][550]LogSkeletalMesh: Building Skeletal Mesh SK_MyScene1_ani_CMan0009_M4_00034...
+[2020.05.11-19.50.04:273][550]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Anima_UE4/Meshes/SK_MyScene1_ani_CMan0009_M4_00034.SK_MyScene1_ani_CMan0009_M4_00034
+[2020.05.11-19.50.28:513][960]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_CMan0011_M4_00012_AnimSequence.MyScene1_ani_CMan0011_M4_00012_AnimSequence
+[2020.05.11-19.50.28:513][960]LogAnimationCompression: Recompressing (AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_CMan0011_M4_00012_AnimSequence.MyScene1_ani_CMan0011_M4_00012_AnimSequence) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.11-19.50.34:305][960]LogTexture: Display: Building textures: T_CMan0011-M4-CMan0011-M4-Hair-S_S (AutoDXT, 512X512)
+[2020.05.11-19.50.34:305][960]LogTexture: Display: Building textures: T_CMan0011-M4-CMan0011-M4-Hair-D_BC (AutoDXT, 512X512)
+[2020.05.11-19.50.34:305][960]LogTexture: Display: Building textures: T_CMan0011-M4-CMan0011-M4-Head-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.50.34:305][960]LogTexture: Display: Building textures: T_CMan0011-M4-CMan0011-M4-Hair-N_N (BC5, 512X512)
+[2020.05.11-19.50.34:305][960]LogTexture: Display: Building textures: T_CMan0011-M4-CMan0011-M4-Head-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.50.34:305][960]LogTexture: Display: Building textures: T_CMan0011-M4-CMan0011-M4-Head-N_N (BC5, 2048X2048)
+[2020.05.11-19.50.34:305][960]LogTexture: Display: Building textures: T_CMan0011-M4-CMan0011-M4-Body-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.50.34:306][960]LogTexture: Display: Building textures: T_CMan0011-M4-CMan0011-M4-Body-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.50.34:306][960]LogTexture: Display: Building textures: T_CMan0011-M4-CMan0011-M4-Body-N_N (BC5, 2048X2048)
+[2020.05.11-19.50.34:306][960]LogSkeletalMesh: Building Skeletal Mesh SK_MyScene1_ani_CMan0011_M4_00006...
+[2020.05.11-19.50.34:331][960]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Anima_UE4/Meshes/SK_MyScene1_ani_CMan0011_M4_00006.SK_MyScene1_ani_CMan0011_M4_00006
+[2020.05.11-19.50.37:490][136]Cmd: TRANSACTION UNDO
+[2020.05.11-19.50.37:490][136]LogEditorTransaction: Undo Rotate Actors
+[2020.05.11-19.50.37:514][136]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.50.37:574][136]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.05.11-19.50.37:574][136]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.05.11-19.50.37:574][136]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.05.11-19.50.37:574][136]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.05.11-19.50.38:443][175]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.11-19.50.38:443][175]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.05.11-19.50.38:459][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.05.11-19.50.38:493][178]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.05.11-19.50.38:878][201]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.05.11-19.50.38:926][204]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.05.11-19.50.39:163][218]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.05.11-19.50.39:574][242]MaterialEditorStats: Base pass shader: 132 instructions
+[2020.05.11-19.50.39:574][242]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2020.05.11-19.50.39:574][242]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2020.05.11-19.50.39:574][242]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.11-19.50.39:574][242]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.11-19.50.39:574][242]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.05.11-19.50.39:574][242]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.11-19.50.49:845][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bench_FBX2)
+[2020.05.11-19.50.59:152][406]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MyScene1_ani_CMan0011_M4_00012_AnimSequence)
+[2020.05.11-19.51.50:440][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_CMan0203_M4_00008_AnimSequence.MyScene1_ani_CMan0203_M4_00008_AnimSequence
+[2020.05.11-19.51.50:440][417]LogAnimationCompression: Recompressing (AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_CMan0203_M4_00008_AnimSequence.MyScene1_ani_CMan0203_M4_00008_AnimSequence) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.11-19.51.55:002][417]LogTexture: Display: Building textures: T_CMan0203-M4-CMan0203-M4-Body-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.51.55:002][417]LogTexture: Display: Building textures: T_CMan0203-M4-CMan0203-M4-Body-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.51.55:002][417]LogTexture: Display: Building textures: T_CMan0203-M4-CMan0203-M4-Head-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.51.55:002][417]LogTexture: Display: Building textures: T_CMan0203-M4-CMan0203-M4-Body-N_N (BC5, 2048X2048)
+[2020.05.11-19.51.55:002][417]LogTexture: Display: Building textures: T_CMan0203-M4-CMan0203-M4-Head-N_N (BC5, 2048X2048)
+[2020.05.11-19.51.55:002][417]LogTexture: Display: Building textures: T_CMan0203-M4-CMan0203-M4-Head-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.51.55:002][417]LogSkeletalMesh: Building Skeletal Mesh SK_MyScene1_ani_CMan0203_M4_00005...
+[2020.05.11-19.51.55:031][417]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Anima_UE4/Meshes/SK_MyScene1_ani_CMan0203_M4_00005.SK_MyScene1_ani_CMan0203_M4_00005
+[2020.05.11-19.52.06:870][988]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-19.52.06:891][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-19.52.06:891][988]PIE: New page: PIE session: forestRoom (May 11, 2020, 11:52:06 AM)
+[2020.05.11-19.52.06:891][988]LogPlayLevel: Creating play world package: /Game/forestSStuff/UEDPIE_0_forestRoom
+[2020.05.11-19.52.06:956][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064469s)
+[2020.05.11-19.52.06:957][988]LogAIModule: Creating AISystem for world forestRoom
+[2020.05.11-19.52.06:957][988]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2020.05.11-19.52.06:957][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/forestSStuff/forestRoom.forestRoom to /Game/forestSStuff/UEDPIE_0_forestRoom.forestRoom (0.065819s)
+[2020.05.11-19.52.06:989][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.05.11-19.52.06:998][988]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.11-19.52.06:998][988]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.11-19.52.06:998][988]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.11-19.52.06:998][988]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.11-19.52.06:998][988]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.11-19.52.06:998][988]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.11-19.52.06:998][988]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.11-19.52.06:998][988]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.11-19.52.06:999][988]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.11-19.52.06:999][988]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.11-19.52.07:026][988]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.11-19.52.07:026][988]LogAudioMixer: Display: Name: PHL 245C5 (3- NVIDIA High Definition Audio)
+[2020.05.11-19.52.07:026][988]LogAudioMixer: Display: Is Default: Yes
+[2020.05.11-19.52.07:026][988]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.11-19.52.07:026][988]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.11-19.52.07:026][988]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.11-19.52.07:026][988]LogAudioMixer: Display: Channel Order:
+[2020.05.11-19.52.07:027][988]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.11-19.52.07:027][988]LogAudioMixer: Display: 1: FrontRight
+[2020.05.11-19.52.07:043][988]LogAudioMixer: Display: Using Audio Device PHL 245C5 (3- NVIDIA High Definition Audio)
+[2020.05.11-19.52.07:044][988]LogInit: FAudioDevice initialized.
+[2020.05.11-19.52.07:052][988]LogLoad: Game class is 'myGameModeMidterm_C'
+[2020.05.11-19.52.07:064][988]LogWorld: Bringing World /Game/forestSStuff/UEDPIE_0_forestRoom.forestRoom up for play (max tick rate 60) at 2020.05.11-15.52.07
+[2020.05.11-19.52.07:065][988]LogWorld: Bringing up level for play took: 0.011835
+[2020.05.11-19.52.07:066][988]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.05.11-19.52.07:068][988]PIE: Play in editor start time for /Game/forestSStuff/UEDPIE_0_forestRoom 1.032
+[2020.05.11-19.52.15:832][513]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.52.15:832][513]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.52.15:832][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-19.52.15:832][513]LogWorld: BeginTearingDown for /Game/forestSStuff/UEDPIE_0_forestRoom
+[2020.05.11-19.52.15:832][513]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.52.15:833][513]LogWorld: UWorld::CleanupWorld for forestRoom, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.52.15:834][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.52.15:845][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-19.52.15:848][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.52.15:874][513]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.52.15:878][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-19.52.15:881][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.05.11-19.52.15:943][515]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.05.11-19.52.16:777][565]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MyScene1_ani_CMan0203_M4_00008_AnimSequence)
+[2020.05.11-19.52.18:598][671]Cmd: DELETE
+[2020.05.11-19.52.18:598][671]Cmd: ACTOR DELETE
+[2020.05.11-19.52.18:621][671]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.05.11-19.52.18:649][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.05.11-19.52.18:652][671]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2020.05.11-19.52.19:483][715]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_CMan0204_M4_00021_AnimSequence.MyScene1_ani_CMan0204_M4_00021_AnimSequence
+[2020.05.11-19.52.19:483][715]LogAnimationCompression: Recompressing (AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_CMan0204_M4_00021_AnimSequence.MyScene1_ani_CMan0204_M4_00021_AnimSequence) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.11-19.52.25:606][715]LogTexture: Display: Building textures: T_CMan0204-M4-CMan0204-M4-Head-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.52.25:607][715]LogTexture: Display: Building textures: T_CMan0204-M4-CMan0204-M4-Head-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.52.25:607][715]LogTexture: Display: Building textures: T_CMan0204-M4-CMan0204-M4-Head-N_N (BC5, 2048X2048)
+[2020.05.11-19.52.25:607][715]LogTexture: Display: Building textures: T_CMan0204-M4-CMan0204-M4-Body-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.52.25:607][715]LogTexture: Display: Building textures: T_CMan0204-M4-v00002CMan0204_M4_CS_Cloths_Stuff_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.52.25:607][715]LogTexture: Display: Building textures: T_CMan0204-M4-CMan0204-M4-Body-N_N (BC5, 2048X2048)
+[2020.05.11-19.52.25:607][715]LogTexture: Display: Building textures: T_CMan0204-M4-CMan0204-M4-Body-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.52.25:607][715]LogSkeletalMesh: Building Skeletal Mesh SK_MyScene1_ani_CMan0204_M4_00021...
+[2020.05.11-19.52.25:636][715]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Anima_UE4/Meshes/SK_MyScene1_ani_CMan0204_M4_00021.SK_MyScene1_ani_CMan0204_M4_00021
+[2020.05.11-19.52.33:767][148]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-19.52.33:789][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-19.52.33:789][148]PIE: New page: PIE session: forestRoom (May 11, 2020, 11:52:33 AM)
+[2020.05.11-19.52.33:789][148]LogPlayLevel: Creating play world package: /Game/forestSStuff/UEDPIE_0_forestRoom
+[2020.05.11-19.52.33:854][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064612s)
+[2020.05.11-19.52.33:855][148]LogAIModule: Creating AISystem for world forestRoom
+[2020.05.11-19.52.33:855][148]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2020.05.11-19.52.33:855][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/forestSStuff/forestRoom.forestRoom to /Game/forestSStuff/UEDPIE_0_forestRoom.forestRoom (0.065981s)
+[2020.05.11-19.52.33:884][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.05.11-19.52.33:890][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.11-19.52.33:890][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.11-19.52.33:890][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.11-19.52.33:890][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.11-19.52.33:890][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.11-19.52.33:890][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.11-19.52.33:890][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.11-19.52.33:890][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.11-19.52.33:891][148]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.11-19.52.33:891][148]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.11-19.52.33:915][148]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.11-19.52.33:915][148]LogAudioMixer: Display: Name: PHL 245C5 (3- NVIDIA High Definition Audio)
+[2020.05.11-19.52.33:915][148]LogAudioMixer: Display: Is Default: Yes
+[2020.05.11-19.52.33:915][148]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.11-19.52.33:915][148]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.11-19.52.33:915][148]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.11-19.52.33:915][148]LogAudioMixer: Display: Channel Order:
+[2020.05.11-19.52.33:915][148]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.11-19.52.33:915][148]LogAudioMixer: Display: 1: FrontRight
+[2020.05.11-19.52.33:929][148]LogAudioMixer: Display: Using Audio Device PHL 245C5 (3- NVIDIA High Definition Audio)
+[2020.05.11-19.52.33:931][148]LogInit: FAudioDevice initialized.
+[2020.05.11-19.52.33:940][148]LogLoad: Game class is 'myGameModeMidterm_C'
+[2020.05.11-19.52.33:950][148]LogWorld: Bringing World /Game/forestSStuff/UEDPIE_0_forestRoom.forestRoom up for play (max tick rate 60) at 2020.05.11-15.52.33
+[2020.05.11-19.52.33:950][148]LogWorld: Bringing up level for play took: 0.009366
+[2020.05.11-19.52.33:951][148]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.05.11-19.52.33:953][148]PIE: Play in editor start time for /Game/forestSStuff/UEDPIE_0_forestRoom -0.083
+[2020.05.11-19.52.42:601][665]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.52.42:601][665]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.52.42:602][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-19.52.42:602][665]LogWorld: BeginTearingDown for /Game/forestSStuff/UEDPIE_0_forestRoom
+[2020.05.11-19.52.42:602][665]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.52.42:602][665]LogWorld: UWorld::CleanupWorld for forestRoom, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.52.42:604][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.52.42:616][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-19.52.42:619][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.52.42:646][665]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.52.42:650][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-19.52.42:653][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.05.11-19.52.42:711][667]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.05.11-19.52.43:377][707]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MyScene1_ani_CMan0204_M4_00021_AnimSequence)
+[2020.05.11-19.53.20:634][910]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_CMan0205_M4_00043_AnimSequence.MyScene1_ani_CMan0205_M4_00043_AnimSequence
+[2020.05.11-19.53.20:634][910]LogAnimationCompression: Recompressing (AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_CMan0205_M4_00043_AnimSequence.MyScene1_ani_CMan0205_M4_00043_AnimSequence) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.11-19.53.25:834][910]LogTexture: Display: Building textures: T_CMan0205-M4-v00001CMan0205_M4_CS_Cloths_Stuff_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.53.25:834][910]LogTexture: Display: Building textures: T_CMan0205-M4-CMan0205-M4-Head-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.53.25:834][910]LogTexture: Display: Building textures: T_CMan0205-M4-CMan0205-M4-Head-N_N (BC5, 2048X2048)
+[2020.05.11-19.53.25:834][910]LogTexture: Display: Building textures: T_CMan0205-M4-CMan0205-M4-Body-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.53.25:834][910]LogTexture: Display: Building textures: T_CMan0205-M4-CMan0205-M4-Body-N_N (BC5, 2048X2048)
+[2020.05.11-19.53.25:834][910]LogTexture: Display: Building textures: T_CMan0205-M4-CMan0205-M4-Body-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.53.25:834][910]LogTexture: Display: Building textures: T_CMan0205-M4-CMan0205-M4-Head-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.53.25:834][910]LogSkeletalMesh: Building Skeletal Mesh SK_MyScene1_ani_CMan0205_M4_00009...
+[2020.05.11-19.53.25:859][910]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Anima_UE4/Meshes/SK_MyScene1_ani_CMan0205_M4_00009.SK_MyScene1_ani_CMan0205_M4_00009
+[2020.05.11-19.54.14:658][601]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_CWom0301_M4_00025_AnimSequence.MyScene1_ani_CWom0301_M4_00025_AnimSequence
+[2020.05.11-19.54.14:658][601]LogAnimationCompression: Recompressing (AnimSequence /Game/Anima_UE4/Animations/MyScene1_ani_CWom0301_M4_00025_AnimSequence.MyScene1_ani_CWom0301_M4_00025_AnimSequence) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.11-19.54.20:702][601]LogTexture: Display: Building textures: T_CWom0301-M4-CWom0301-M4-Body-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.54.20:702][601]LogTexture: Display: Building textures: T_CWom0301-M4-CWom0301-M4-Head-D_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.54.20:702][601]LogTexture: Display: Building textures: T_CWom0301-M4-CWom0301-M4-Head-N_N (BC5, 2048X2048)
+[2020.05.11-19.54.20:703][601]LogTexture: Display: Building textures: T_CWom0301-M4-CWom0301-M4-Body-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.54.20:703][601]LogTexture: Display: Building textures: T_CWom0301-M4-CWom0301-M4-Head-S_S (AutoDXT, 2048X2048)
+[2020.05.11-19.54.20:703][601]LogTexture: Display: Building textures: T_CWom0301-M4-v00003Cloths_Stuff_BC (AutoDXT, 2048X2048)
+[2020.05.11-19.54.20:703][601]LogTexture: Display: Building textures: T_CWom0301-M4-CWom0301-M4-Body-N_N (BC5, 2048X2048)
+[2020.05.11-19.54.20:703][601]LogSkeletalMesh: Building Skeletal Mesh SK_MyScene1_ani_CWom0301_M4_00011...
+[2020.05.11-19.54.20:715][601]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Anima_UE4/Meshes/SK_MyScene1_ani_CWom0301_M4_00011.SK_MyScene1_ani_CWom0301_M4_00011
+[2020.05.11-19.54.37:910][608]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-19.54.37:933][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-19.54.37:933][608]PIE: New page: PIE session: forestRoom (May 11, 2020, 11:54:37 AM)
+[2020.05.11-19.54.37:933][608]LogPlayLevel: Creating play world package: /Game/forestSStuff/UEDPIE_0_forestRoom
+[2020.05.11-19.54.37:998][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065001s)
+[2020.05.11-19.54.38:000][608]LogAIModule: Creating AISystem for world forestRoom
+[2020.05.11-19.54.38:000][608]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2020.05.11-19.54.38:000][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/forestSStuff/forestRoom.forestRoom to /Game/forestSStuff/UEDPIE_0_forestRoom.forestRoom (0.066635s)
+[2020.05.11-19.54.38:029][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.05.11-19.54.38:038][608]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.11-19.54.38:038][608]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.11-19.54.38:038][608]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.11-19.54.38:038][608]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.11-19.54.38:038][608]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.11-19.54.38:038][608]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.11-19.54.38:038][608]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.11-19.54.38:038][608]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.11-19.54.38:039][608]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.11-19.54.38:039][608]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.11-19.54.38:065][608]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.11-19.54.38:065][608]LogAudioMixer: Display: Name: PHL 245C5 (3- NVIDIA High Definition Audio)
+[2020.05.11-19.54.38:065][608]LogAudioMixer: Display: Is Default: Yes
+[2020.05.11-19.54.38:065][608]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.11-19.54.38:065][608]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.11-19.54.38:065][608]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.11-19.54.38:065][608]LogAudioMixer: Display: Channel Order:
+[2020.05.11-19.54.38:065][608]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.11-19.54.38:065][608]LogAudioMixer: Display: 1: FrontRight
+[2020.05.11-19.54.38:081][608]LogAudioMixer: Display: Using Audio Device PHL 245C5 (3- NVIDIA High Definition Audio)
+[2020.05.11-19.54.38:083][608]LogInit: FAudioDevice initialized.
+[2020.05.11-19.54.38:090][608]LogLoad: Game class is 'myGameModeMidterm_C'
+[2020.05.11-19.54.38:101][608]LogWorld: Bringing World /Game/forestSStuff/UEDPIE_0_forestRoom.forestRoom up for play (max tick rate 60) at 2020.05.11-15.54.38
+[2020.05.11-19.54.38:102][608]LogWorld: Bringing up level for play took: 0.010911
+[2020.05.11-19.54.38:103][608]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.05.11-19.54.38:147][608]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3185.926 Y=1027.559 Z=271.478] for [myCharacter_C]
+[2020.05.11-19.54.38:147][608]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type myCharacter_C at Rotation: Pitch 0.000000 Yaw 157.898468 Roll 0.000000
+Translation: 3185.925781 1027.559326 271.478180
+Scale3D: 1.000000 1.000000 1.000000
+
+[2020.05.11-19.54.38:148][608]PIE: Play in editor start time for /Game/forestSStuff/UEDPIE_0_forestRoom 0.112
+[2020.05.11-19.54.44:331][978]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.54.44:332][978]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.54.44:332][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-19.54.44:332][978]LogWorld: BeginTearingDown for /Game/forestSStuff/UEDPIE_0_forestRoom
+[2020.05.11-19.54.44:332][978]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.54.44:332][978]LogWorld: UWorld::CleanupWorld for forestRoom, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.54.44:334][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.54.44:340][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-19.54.44:343][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.54.44:371][978]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.54.44:375][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-19.54.44:379][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.05.11-19.54.44:431][981]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.05.11-19.54.53:841][545]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-19.54.53:862][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-19.54.53:862][545]PIE: New page: PIE session: forestRoom (May 11, 2020, 11:54:53 AM)
+[2020.05.11-19.54.53:862][545]LogPlayLevel: Creating play world package: /Game/forestSStuff/UEDPIE_0_forestRoom
+[2020.05.11-19.54.53:925][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063012s)
+[2020.05.11-19.54.53:926][545]LogAIModule: Creating AISystem for world forestRoom
+[2020.05.11-19.54.53:926][545]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2020.05.11-19.54.53:926][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/forestSStuff/forestRoom.forestRoom to /Game/forestSStuff/UEDPIE_0_forestRoom.forestRoom (0.064064s)
+[2020.05.11-19.54.53:953][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.05.11-19.54.53:953][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.11-19.54.53:953][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.11-19.54.53:954][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.11-19.54.53:954][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.11-19.54.53:954][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.11-19.54.53:954][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.11-19.54.53:954][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.11-19.54.53:954][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.11-19.54.53:954][545]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.11-19.54.53:954][545]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.11-19.54.53:981][545]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.11-19.54.53:981][545]LogAudioMixer: Display: Name: PHL 245C5 (3- NVIDIA High Definition Audio)
+[2020.05.11-19.54.53:981][545]LogAudioMixer: Display: Is Default: Yes
+[2020.05.11-19.54.53:981][545]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.11-19.54.53:981][545]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.11-19.54.53:981][545]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.11-19.54.53:981][545]LogAudioMixer: Display: Channel Order:
+[2020.05.11-19.54.53:981][545]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.11-19.54.53:981][545]LogAudioMixer: Display: 1: FrontRight
+[2020.05.11-19.54.53:995][545]LogAudioMixer: Display: Using Audio Device PHL 245C5 (3- NVIDIA High Definition Audio)
+[2020.05.11-19.54.53:997][545]LogInit: FAudioDevice initialized.
+[2020.05.11-19.54.54:005][545]LogLoad: Game class is 'myGameModeMidterm_C'
+[2020.05.11-19.54.54:018][545]LogWorld: Bringing World /Game/forestSStuff/UEDPIE_0_forestRoom.forestRoom up for play (max tick rate 60) at 2020.05.11-15.54.54
+[2020.05.11-19.54.54:019][545]LogWorld: Bringing up level for play took: 0.011759
+[2020.05.11-19.54.54:019][545]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.05.11-19.54.54:021][545]PIE: Play in editor start time for /Game/forestSStuff/UEDPIE_0_forestRoom -0.015
+[2020.05.11-19.55.42:893][476]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.55.42:893][476]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.55.42:894][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-19.55.42:894][476]LogWorld: BeginTearingDown for /Game/forestSStuff/UEDPIE_0_forestRoom
+[2020.05.11-19.55.42:894][476]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.55.42:894][476]LogWorld: UWorld::CleanupWorld for forestRoom, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.55.42:896][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.55.42:908][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-19.55.42:911][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.55.42:936][476]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.55.42:940][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-19.55.42:944][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.05.11-19.55.42:995][478]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.05.11-19.55.47:548][751]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MyScene1_ani_CMan0009_M4_00034_AnimSequence)
+[2020.05.11-19.56.12:996][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.05.11-19.56.13:198][ 25]LogSavePackage: Moving '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Saved/forestRoom7C5323E0446E625AC7D421804F8F7279.tmp' to '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Content/forestSStuff/forestRoom.umap'
+[2020.05.11-19.56.13:331][ 25]LogSavePackage: Moving '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Saved/forestRoom_BuiltDataCE69D4BC4E01C204978C4B90B3E3E8BB.tmp' to '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Content/forestSStuff/forestRoom_BuiltData.uasset'
+[2020.05.11-19.56.13:348][ 25]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.11-19.56.13:348][ 25]LogContentValidation: Display: Validating World /Game/forestSStuff/forestRoom.forestRoom
+[2020.05.11-19.56.13:348][ 25]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/forestSStuff/forestRoom_BuiltData.forestRoom_BuiltData
+[2020.05.11-19.56.20:387][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.05.11-19.56.20:586][443]LogSavePackage: Moving '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Saved/forestRoom7D89222440668A49DD5629B88D7547DD.tmp' to '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Content/forestSStuff/forestRoom.umap'
+[2020.05.11-19.56.20:707][443]LogSavePackage: Moving '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Saved/forestRoom_BuiltData08EB236B49265486E29B2FA7C97BC96F.tmp' to '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Content/forestSStuff/forestRoom_BuiltData.uasset'
+[2020.05.11-19.56.20:726][443]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.11-19.56.20:726][443]LogContentValidation: Display: Validating World /Game/forestSStuff/forestRoom.forestRoom
+[2020.05.11-19.56.20:726][443]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/forestSStuff/forestRoom_BuiltData.forestRoom_BuiltData
+[2020.05.11-19.57.21:984][156]LogSlate: Window 'Message' being destroyed
+[2020.05.11-19.57.22:491][156]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.57.22:548][156]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.05.11-19.57.22:548][156]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.05.11-19.57.22:548][156]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.05.11-19.57.22:548][156]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.05.11-19.57.22:565][156]LogMaterial: Display: Missing cached shader map for material worldAlignTexture, compiling. 
+[2020.05.11-19.57.22:676][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.05.11-19.57.22:696][156]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.11-19.57.24:524][156]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2020.05.11-19.57.24:524][156]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.05.11-19.57.24:524][156]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2020.05.11-19.57.24:524][156]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.05.11-19.57.24:524][156]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.05.11-19.57.24:524][156]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.05.11-19.57.24:524][156]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.05.11-19.57.24:524][156]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.05.11-19.57.24:524][156]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.05.11-19.57.24:524][156]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.05.11-19.57.24:524][156]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.05.11-19.57.24:524][156]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.05.11-19.57.24:524][156]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.05.11-19.57.24:536][156]TextureStreamingBuild: Display: Compiling optional shaders took 1.858 seconds.
+[2020.05.11-19.57.24:575][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.05.11-19.57.24:652][156]LogSlate: Window 'worldAlignTexture' being destroyed
+[2020.05.11-19.57.24:653][156]LogSlate: Window 'worldAlignTexture' being destroyed
+[2020.05.11-19.57.24:829][156]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.57.24:829][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.57.24:944][156]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.57.24:944][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-19.57.26:267][230]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.05.11-19.57.26:690][254]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.11-19.57.27:012][269]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.05.11-19.57.27:253][283]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.05.11-19.57.33:336][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.05.11-19.57.34:835][510]LogSlate: Window 'Save Content' being destroyed
+[2020.05.11-19.57.34:894][510]LogSavePackage: Moving '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Saved/GreenWall3BDB4CD64F50D2DC2CDDC4950D9DA29A.tmp' to '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Content/forestSStuff/Materials/GreenWall.uasset'
+[2020.05.11-19.57.34:942][510]LogSavePackage: Moving '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Saved/worldAlignTextureDC55E3EA42A433C485B45EA7EAF80293.tmp' to '../../../../../../content/others/nyu/gradClasses/Level Design/LevelDesignFinal/MidtermProject/Content/forestSStuff/worldAlignTexture.uasset'
+[2020.05.11-19.57.35:151][510]LogSlate: Window 'Message Log' being destroyed
+[2020.05.11-19.57.35:156][510]LogSlate: Window 'MidtermProject - Unreal Editor' being destroyed
+[2020.05.11-19.57.35:167][510]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2020.05.11-19.57.35:761][510]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.11-19.57.35:761][510]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/forestSStuff/Materials/GreenWall.GreenWall
+[2020.05.11-19.57.35:761][510]LogContentValidation: Display: Validating Material /Game/forestSStuff/worldAlignTexture.worldAlignTexture
+[2020.05.11-19.57.35:770][511]Cmd: QUIT_EDITOR
+[2020.05.11-19.57.35:770][511]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.11-19.57.35:781][511]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.11-19.57.35:781][511]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.11-19.57.36:046][511]LogExit: Preparing to exit.
+[2020.05.11-19.57.36:617][511]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.57.36:617][511]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.57.36:617][511]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.57.36:618][511]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.57.36:618][511]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.57.36:618][511]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.57.36:618][511]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.57.36:618][511]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.57.36:618][511]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.57.36:739][511]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-19.57.36:739][511]LogExit: Editor shut down
+[2020.05.11-19.57.36:740][511]LogExit: Transaction tracking system shut down
+[2020.05.11-19.57.36:743][511]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.11-19.57.37:215][511]LogExit: Object subsystem successfully closed.
+[2020.05.11-19.57.37:248][511]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.11-19.57.37:346][511]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (706)
+[2020.05.11-19.57.37:346][511]LogModuleManager: Shutting down and abandoning module Voice (704)
+[2020.05.11-19.57.37:370][511]LogModuleManager: Shutting down and abandoning module BlueprintNativeCodeGen (702)
+[2020.05.11-19.57.37:393][511]LogModuleManager: Shutting down and abandoning module LauncherServices (700)
+[2020.05.11-19.57.37:393][511]LogModuleManager: Shutting down and abandoning module MeshBuilder (698)
+[2020.05.11-19.57.37:393][511]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.05.11-19.57.37:393][511]LogModuleManager: Shutting down and abandoning module AddContentDialog (694)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module WidgetCarousel (693)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module EditorWidgets (690)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module CollectionManager (688)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module SceneOutliner (686)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.05.11-19.57.37:410][511]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.05.11-19.57.37:411][511]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.05.11-19.57.37:412][511]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.05.11-19.57.37:412][511]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.05.11-19.57.37:412][511]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.05.11-19.57.37:412][511]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.05.11-19.57.37:412][511]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.05.11-19.57.37:412][511]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.05.11-19.57.37:412][511]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.05.11-19.57.37:419][511]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.05.11-19.57.37:419][511]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.05.11-19.57.37:419][511]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.05.11-19.57.37:419][511]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.05.11-19.57.37:419][511]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.05.11-19.57.38:154][511]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.05.11-19.57.38:155][511]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.05.11-19.57.38:155][511]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.05.11-19.57.38:155][511]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.05.11-19.57.38:155][511]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.05.11-19.57.38:155][511]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.05.11-19.57.38:155][511]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.05.11-19.57.38:155][511]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.05.11-19.57.38:188][511]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.05.11-19.57.38:188][511]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.05.11-19.57.38:188][511]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.05.11-19.57.38:188][511]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.05.11-19.57.38:188][511]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.05.11-19.57.38:188][511]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.05.11-19.57.38:188][511]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.05.11-19.57.38:188][511]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.05.11-19.57.38:188][511]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.05.11-19.57.38:188][511]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.05.11-19.57.38:188][511]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.05.11-19.57.38:189][511]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.05.11-19.57.38:189][511]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.05.11-19.57.38:190][511]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.05.11-19.57.38:190][511]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.05.11-19.57.38:190][511]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.05.11-19.57.38:190][511]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.05.11-19.57.38:190][511]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.05.11-19.57.38:193][511]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.05.11-19.57.38:193][511]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.05.11-19.57.38:193][511]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.05.11-19.57.38:193][511]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.05.11-19.57.38:194][511]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.05.11-19.57.38:205][511]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.05.11-19.57.38:401][511]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.05.11-19.57.38:401][511]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.05.11-19.57.38:401][511]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.05.11-19.57.38:401][511]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.05.11-19.57.38:401][511]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.05.11-19.57.38:401][511]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.05.11-19.57.38:401][511]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.05.11-19.57.38:401][511]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.05.11-19.57.38:401][511]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.05.11-19.57.38:401][511]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.05.11-19.57.38:401][511]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.05.11-19.57.38:402][511]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.05.11-19.57.38:403][511]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.05.11-19.57.38:403][511]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.05.11-19.57.38:403][511]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.05.11-19.57.38:403][511]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.05.11-19.57.38:403][511]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.05.11-19.57.38:403][511]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.05.11-19.57.38:403][511]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.05.11-19.57.38:403][511]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.05.11-19.57.38:403][511]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.05.11-19.57.38:403][511]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.05.11-19.57.38:403][511]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.05.11-19.57.38:404][511]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.05.11-19.57.38:404][511]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.05.11-19.57.38:404][511]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.05.11-19.57.38:404][511]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.05.11-19.57.38:404][511]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.05.11-19.57.38:404][511]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.05.11-19.57.38:404][511]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.05.11-19.57.38:404][511]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.05.11-19.57.38:404][511]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.05.11-19.57.38:404][511]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.05.11-19.57.38:404][511]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.05.11-19.57.38:404][511]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.05.11-19.57.38:404][511]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.05.11-19.57.38:404][511]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.05.11-19.57.38:405][511]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.05.11-19.57.38:405][511]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.05.11-19.57.38:405][511]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.05.11-19.57.38:405][511]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.05.11-19.57.38:506][511]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.05.11-19.57.38:607][511]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.05.11-19.57.38:607][511]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.05.11-19.57.38:607][511]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.05.11-19.57.38:607][511]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.05.11-19.57.38:607][511]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.05.11-19.57.38:607][511]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.05.11-19.57.38:607][511]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.05.11-19.57.38:607][511]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.05.11-19.57.38:607][511]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.05.11-19.57.38:607][511]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.05.11-19.57.38:638][511]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.11-19.57.38:638][511]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.05.11-19.57.38:638][511]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.05.11-19.57.38:638][511]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.05.11-19.57.38:638][511]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.05.11-19.57.38:638][511]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.05.11-19.57.38:638][511]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.05.11-19.57.38:638][511]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.05.11-19.57.38:638][511]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.05.11-19.57.38:638][511]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.05.11-19.57.38:640][511]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.05.11-19.57.38:640][511]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.05.11-19.57.38:640][511]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.05.11-19.57.38:640][511]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.05.11-19.57.38:640][511]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.05.11-19.57.38:643][511]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.05.11-19.57.38:643][511]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.05.11-19.57.38:643][511]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.05.11-19.57.38:643][511]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.05.11-19.57.38:643][511]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.05.11-19.57.38:649][511]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.05.11-19.57.38:649][511]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.05.11-19.57.38:649][511]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.05.11-19.57.38:649][511]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.05.11-19.57.38:649][511]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.05.11-19.57.38:650][511]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.05.11-19.57.38:653][511]LogDerivedDataCache: Shutdown
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.05.11-19.57.38:653][511]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.05.11-19.57.38:665][511]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.05.11-19.57.38:671][511]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.05.11-19.57.38:671][511]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.05.11-19.57.38:671][511]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.05.11-19.57.38:671][511]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.05.11-19.57.38:671][511]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.05.11-19.57.38:671][511]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.05.11-19.57.38:671][511]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.05.11-19.57.38:671][511]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.05.11-19.57.38:676][511]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.05.11-19.57.38:711][511]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.05.11-19.57.38:711][511]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.05.11-19.57.38:711][511]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.05.11-19.57.38:711][511]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.05.11-19.57.38:712][511]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.05.11-19.57.38:712][511]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.05.11-19.57.38:712][511]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.05.11-19.57.38:712][511]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.05.11-19.57.38:712][511]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.05.11-19.57.38:712][511]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.05.11-19.57.38:712][511]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.05.11-19.57.38:712][511]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.05.11-19.57.38:712][511]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.05.11-19.57.38:713][511]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.11-19.57.38:713][511]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.05.11-19.57.38:713][511]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.05.11-19.57.38:713][511]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.05.11-19.57.38:713][511]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.05.11-19.57.38:713][511]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.05.11-19.57.38:714][511]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.05.11-19.57.38:714][511]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.05.11-19.57.38:735][511]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.05.11-19.57.38:735][511]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.11-19.57.38:735][511]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB255B927-4BCF-8A3F-C2DE-FFBA18703705%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=e577266f4e8c70027147528d6a85c5d3%7Cace2c9cfa278442f8c123a4e488357fc%7C7abf7e04-c0d6-4fb5-9f9e-8c4b69d19ead&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.05.11-19.57.38:769][511]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.05.11-19.57.38:773][511]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.05.11-19.57.38:776][511]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.05.11-19.57.38:778][511]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.05.11-19.57.38:778][511]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.05.11-19.57.38:778][511]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.05.11-19.57.38:779][511]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.05.11-19.57.38:779][511]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.05.11-19.57.38:779][511]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.05.11-19.57.38:779][511]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.05.11-19.57.38:779][511]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.11-19.57.38:780][511]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.11-19.57.38:780][511]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.11-19.57.38:809][511]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.11-19.57.38:810][511]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.11-19.57.38:810][511]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.11-19.57.38:810][511]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.11-19.57.38:810][511]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.11-19.57.38:815][511]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.11-19.57.38:815][511]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.11-19.57.38:815][511]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.11-19.57.38:816][511]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.11-19.57.38:816][511]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.11-19.57.38:816][511]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.11-19.57.38:816][511]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.11-19.57.38:816][511]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.11-19.57.38:816][511]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.11-19.57.38:816][511]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.11-19.57.38:816][511]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.11-19.57.38:816][511]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.11-19.57.38:824][511]LogD3D11RHI: Shutdown
+[2020.05.11-19.57.38:824][511]LogD3D11RHI: CleanupD3DDevice
+[2020.05.11-19.57.38:871][511]LogExit: Exiting.
+[2020.05.11-19.57.38:952][511]Log file closed, 05/11/20 15:57:38
